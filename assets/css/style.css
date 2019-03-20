@@ -1,0 +1,18 @@
+body { /* Visual */
+  background: salmon;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Times, sans-serif;
+    font-size: 30px
+
+h3 {
+    text-align: center;
+    font-family: Verdana, Times, sans-serif;
+    font-size: 20px
+
+    .crystal-image {
+        width: 300px;
+        height: 300px;
+      }
